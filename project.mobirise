@@ -73,14 +73,15 @@
     },
     "gdpr": false,
     "uniqCompNum": 3,
-    "versionPublish": "5.8.0"
+    "versionPublish": "5.8.0",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "mrse.pl.html": {
       "settings": {
         "main": true,
         "title": "MRSE",
-        "meta_descr": "Serwer minecraft Surivival + działki!",
+        "meta_descr": "Serwer minecraft Surivival + działki oraz skyblock! Dołącz do nas już teraz. IP MRSE.PL",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
